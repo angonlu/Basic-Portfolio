@@ -1,0 +1,37 @@
+/*Css for content section on about me section.*/
+
+#middle {
+	width: 650px;
+	height: 50%;
+	background-color: white;
+	margin-left: 75px;
+	margin-top: 120px;
+	margin-right: 40px;
+	margin-bottom: 200px;
+	padding: 15px;
+	float: left;
+	border: 1px solid #dddddd;
+}
+#aboutme p {
+	line-height: 1.5;
+}
+#middle img {
+	float: left;
+	margin-top: 20px;
+}
+
+h2 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: #41AAA5;
+	font-size: 30px;
+}
+
+#aboutme {
+	border-top: 3px solid #CCCCCC;
+	color: #7B7F8B;
+	
+}
+#luis-a {
+	margin-right: 10px;
+	margin-top: 10px;
+}
