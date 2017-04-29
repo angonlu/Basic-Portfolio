@@ -2,7 +2,6 @@
 
 #middle {
 	width: 650px;
-	height: 50%;
 	background-color: white;
 	margin-left: 75px;
 	margin-top: 120px;
@@ -14,16 +13,19 @@
 }
 #aboutme p {
 	line-height: 1.5;
+    padding-top: 15px;
 }
 #middle img {
 	float: left;
 	margin-top: 20px;
 }
 
-h2 {
+#middle h2 {
 	font-family: 'Georgia', Times, Times New Roman, serif;
-	color: #41AAA5;
-	font-size: 30px;
+    color: #41AAA5;
+    font-size: 35px;
+    margin-top: 12px;
+    margin-bottom: 12px;
 }
 
 #aboutme {

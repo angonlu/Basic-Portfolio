@@ -1,4 +1,4 @@
-#portfolio {
+#middle {
     width: 650px;
     background-color: white;
     margin-left: 75px;
@@ -11,14 +11,16 @@
     overflow: auto;
     clear: both;
 }
-#portfolio h2 {
+#middle h2 {
 	font-family: 'Georgia', Times, Times New Roman, serif;
     color: #41AAA5;
-    border-bottom: 3px solid #CCCCCC;
     padding-bottom: 15px;
     font-size: 35px;
 }
-
+#portfolio {
+    border-top: 3px solid #CCCCCC;
+    padding-top: 10px;
+}
 #blog {
 	position: relative;
     float: left;
