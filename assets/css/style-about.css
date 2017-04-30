@@ -2,14 +2,14 @@
 
 #middle {
 	width: 650px;
-	background-color: white;
-	margin-left: 75px;
-	margin-top: 120px;
-	margin-right: 40px;
-	margin-bottom: 200px;
-	padding: 15px;
-	float: left;
-	border: 1px solid #dddddd;
+    background-color: white;
+    margin-left: 75px;
+    margin-top: 120px;
+    margin-right: 33px;
+    margin-bottom: 200px;
+    padding: 15px;
+    float: left;
+    border: 1px solid #dddddd;
 }
 #aboutme p {
 	line-height: 1.5;
